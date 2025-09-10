@@ -63,3 +63,7 @@ function getData(dealCategoryIds) {
 }
 // Call the function
 getData(dealCategoryIds);
+
+<script>
+    console.log("============= testtt");
+</script>
